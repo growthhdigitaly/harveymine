@@ -1,0 +1,6 @@
+{
+  "name": "Harvey — Command Deck",
+  "description": "Autonomous outbound sales agent dashboard. Search, score, write, review, and converse with high-intent prospects.",
+  "permissions": [],
+  "capabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
